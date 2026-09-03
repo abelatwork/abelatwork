@@ -2,7 +2,7 @@
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=2EA0F8&center=true&vCenter=true&width=435&lines=Software+Developer;Open+Source+Enthusiast;Always+Learning" alt="Typing SVG" />
 </p>
-🔭 **I’m currently working on** - Learning to build software projects and exploring AI-powered solutions<br><br>🤝 **I’m looking to collaborate on** - Open-source projects, web applications, and innovative tech ideas<br><br>👐 **I’m looking for help with** - Improving my skills in advanced software development, AI, and system architecture<br><br>🌱 **I’m currently learning** - AI/ML, backend development, cloud technologies, and modern DevOps practices<br><br>💬 **Ask me about** - Programming, Git & GitHub, Linux, Web development, and turning ideas into working projects<br><br>⚡ **Fun fact** - I play the trumpet. 😄🔥<br>
+🔭 **I’m currently working on:**  Learning to build software projects and exploring AI-powered solutions<br><br>🤝 **I’m looking to collaborate on:** Open-source projects, web applications, and innovative tech ideas<br><br>👐 **I’m looking for help with:** Improving my skills in advanced software development, AI, and system architecture<br><br>🌱 **I’m currently learning:** AI/ML, backend development, cloud technologies, and modern DevOps practices<br><br>💬 **Ask me about:** Programming, Git & GitHub, Linux, Web development, and turning ideas into working projects<br><br>⚡ **Fun fact:** I play the trumpet. 😄🔥<br>
 
 
 ## 🌐 Socials:
