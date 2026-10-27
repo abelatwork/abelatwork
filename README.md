@@ -1,4 +1,4 @@
-#  About Me
+#  Hello World
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=2EA0F8&center=true&vCenter=true&width=435&lines=Software+Developer;Open+Source+Enthusiast;Always+Learning" alt="Typing SVG" />
 </p> 
