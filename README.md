@@ -5,14 +5,14 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Caveat&weight=600&size=26&pause=1000&color=56d4dd&center=true&vCenter=true&width=610&height=44&lines=I%20am%20a%20Software%20Developer%20%3A);Turning%20coffee%20into%20clean%2C%20tested%20code" alt="Typing headlines" />
+  <img src="https://readme-typing-svg.demolab.com?font=Caveat&weight=600&size=26&pause=1000&color=56d4dd&center=true&vCenter=true&width=610&height=44&lines=I%20am%20a%20Web%20Developer%20%3A);Turning%20coffee%20into%20clean%2C%20tested%20code" alt="Typing headlines" />
 </p>
 
 ### 🚀 About Me
 
 I’m currently working on learning to build software projects and exploring AI-powered solutions
 
-🔭 &nbsp;I'm currently working on **building software projects**  
+🔭 &nbsp;I'm currently working on **building website projects**  
 🌱 &nbsp;I'm currently learning **AI-powered solutions in technology**  
 👯 &nbsp;I'm looking to collaborate on **interesting and fun projects**  
 🤔 &nbsp;I'm looking for help with **application security**  
