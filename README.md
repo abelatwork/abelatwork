@@ -17,7 +17,7 @@ I’m currently working on learning to build software projects and exploring AI-
 👯 &nbsp;I'm looking to collaborate on **interesting and fun projects**  
 🤔 &nbsp;I'm looking for help with **application security**  
 💬 &nbsp;Ask me about **anything tech**  
-⚡ &nbsp;Fun fact: **I can even code in transit just to pick up a deadline**
+⚡ &nbsp;Fun fact: **I once coded in transit just to pick up on a deadline**
 
 ### 🛠️ Tech Stack
 
